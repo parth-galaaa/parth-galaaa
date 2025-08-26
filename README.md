@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Parth Gala</h1>
+<h3 align="center">I create stuff sometimes!</h3>
 
-<!--
-**parth-galaaa/parth-galaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parth-galaaa&label=Profile%20views&color=0e75b6&style=flat" alt="parth-galaaa" /> </p>
 
-Here are some ideas to get you started:
+# 📊 GitHub Stats:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <!-- Top stat -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=parth-galaaa&theme=highcontrast&hide_border=false" alt="GitHub Streak" width="450" height="200"/>
+</p>
+
+<p align="center">
+  <!-- Two stats side by side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=parth-galaaa&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="450" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-galaaa&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="450" height="200"/>
+</p>
