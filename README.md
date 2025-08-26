@@ -9,11 +9,17 @@
 
 <!-- Top stat -->
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=parth-galaaa&theme=highcontrast&hide_border=false" alt="GitHub Streak" width="900" height="200"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=parth-galaaa&theme=highcontrast&hide_border=false" alt="GitHub Streak" height="200"/>
 </p>
 
-<!-- Two stats side by side -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parth-galaaa&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="445" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-galaaa&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="445" height="200"/>
-</p>
+<!-- Two stats side by side using table -->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=parth-galaaa&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-galaaa&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200"/>
+    </td>
+  </tr>
+</table>
