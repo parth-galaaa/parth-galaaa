@@ -7,11 +7,11 @@
 
 # 📊 GitHub Stats:
 <!-- ![banner](https://user-images.githubusercontent.com/109308073/202793525-b2d35c97-1687-46ed-a44a-86504d86c81c.png) -->
-|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=parth-galaaa&theme=github_dark) |![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parth-galaaa&langs_count=8&theme=github_dark) |![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parth-galaaa&theme=github_dark&langs_count=8)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=parth-galaaa&theme=highcontrast) |![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parth-galaaa&langs_count=8&theme=highcontrast) |![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parth-galaaa&theme=highcontrast&langs_count=8)|
 |---|---|---|
 
 <!-- <p align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parth-galaaa&theme=github_dark" alt="Julian's github stats"/></p> -->
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parth-galaaa&theme=highcontrast" alt="Julian's github stats"/></p> -->
 
 |![](https://github-readme-streak-stats.herokuapp.com/?user=parth-galaaa&hide_border=true&theme=dark)|![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parth-galaaa&layout=compact&langs_count=8&theme=dark)|
 |---|---|
