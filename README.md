@@ -6,20 +6,12 @@
 </p>
 
 # 📊 GitHub Stats:
+<!-- ![banner](https://user-images.githubusercontent.com/109308073/202793525-b2d35c97-1687-46ed-a44a-86504d86c81c.png) -->
+|![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=parth-galaaa&theme=github_dark) |![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parth-galaaa&langs_count=8&theme=github_dark) |![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parth-galaaa&theme=github_dark&langs_count=8)|
+|---|---|---|
 
-<!-- Top stat -->
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=parth-galaaa&theme=highcontrast&hide_border=false" alt="GitHub Streak" width="800" height="200"/>
-</p>
+<!-- <p align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parth-galaaa&theme=github_dark" alt="Julian's github stats"/></p> -->
 
-<!-- Two stats side by side -->
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=parth-galaaa&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" height="200"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-galaaa&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="Top Languages" width="400" height="200"/>
-    </td>
-  </tr>
-</table>
+|![](https://github-readme-streak-stats.herokuapp.com/?user=parth-galaaa&hide_border=true&theme=dark)|![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parth-galaaa&layout=compact&langs_count=8&theme=dark)|
+|---|---|
