@@ -12,7 +12,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=parth-galaaa&theme=highcontrast&hide_border=false" alt="GitHub Streak" height="200"/>
 </p>
 
-<!-- Two stats side by side using table -->
+<!-- Two stats side by side -->
 <table align="center">
   <tr>
     <td>
